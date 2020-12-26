@@ -1,6 +1,6 @@
 
 /*  this code block is just to show you how this button works */
-
+body {
     background-color: black;
     position: relative;
     display: flex;
