@@ -1,6 +1,10 @@
 
 /*  this code block is just to show you how this button works */
+<<<<<<< HEAD
 body {
+=======
+section {
+>>>>>>> 2be907beb5dd585bdc1eba05c222584f3c4fc14f
     background-color: black;
     position: relative;
     display: flex;
