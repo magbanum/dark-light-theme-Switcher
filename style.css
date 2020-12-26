@@ -1,25 +1,28 @@
 
 /*  this code block is just to show you how this button works */
 body {
+    background: transparent;
+}
+section{
     background-color: black;
-    position: relative;
-    display: flex;
+    position: relative; 
     justify-content: center;
     align-items: center;
-    height: 600px;
+    height: 250px;
+    width: fit-content;
     margin: 0; 
-    overflow: hidden;
     color: yellow;
     font-family: sans-serif;
+    border: solid;
+    border-color: yellow;
+    border-radius: 2em;
+    padding: 1em;
 }
 
-body.dark-theme {
+body.dark-theme section{
     background-color: white;
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     color: crimson;
+    border-color: crimson;
 }
 
 
